@@ -1,0 +1,77 @@
+/* アプリタイトル */
+"app_title" = "AutoClicker";
+"app_author" = "TinyWuyou";
+
+/* 基本設定 */
+"click_interval" = "クリック間隔:";
+"click_count" = "クリック回数:";
+"mouse_button" = "マウスボタン:";
+"click_type" = "クリックタイプ:";
+"click_mode" = "クリックモード:";
+"delay_start" = "遅延開始:";
+
+/* ボタン */
+"start" = "開始";
+"stop" = "停止";
+"capture" = "キャプチャ";
+"capture_position" = "位置をキャプチャ";
+"capturing" = "キャプチャ中";
+
+/* モード */
+"follow_mouse" = "マウスに追従";
+"fixed_position" = "固定位置";
+"random_area" = "ランダムエリア";
+
+/* マウスボタン */
+"left_button" = "左";
+"right_button" = "右";
+"middle_button" = "中";
+
+/* クリックタイプ */
+"single_click" = "シングル";
+"double_click" = "ダブル";
+"triple_click" = "トリプル";
+
+/* ヒューマナイズ設定 */
+"humanize" = "ヒューマナイズ";
+"delay_variation" = "遅延変動:";
+"position_jitter" = "位置ジッター:";
+
+/* 座標設定 */
+"coordinates" = "座標:";
+"start_point" = "開始点";
+"end_point" = "終了点";
+
+/* 時間単位 */
+"milliseconds" = "ミリ秒";
+"seconds" = "秒";
+"minutes" = "分";
+
+/* ヒント */
+"unlimited" = "(0=無制限)";
+"immediately" = "(0 = 即時)";
+"area_size" = "エリアサイズ";
+
+/* ホットキー */
+"global_hotkeys" = "グローバルホットキー";
+"hotkey_start" = "開始";
+"hotkey_stop" = "停止";
+"hotkey_capture" = "キャプチャ";
+
+/* 設定 */
+"settings" = "設定";
+"language" = "言語";
+"theme" = "テーマ";
+"appearance" = "外観";
+
+/* テーマ */
+"theme_system" = "システム";
+"theme_light" = "ライト";
+"theme_dark" = "ダーク";
+
+/* ステータス */
+"countdown" = "カウントダウン:";
+"running" = "実行中";
+"stopped" = "停止";
+"clicked_count" = "クリック数:";
+"times" = "回";

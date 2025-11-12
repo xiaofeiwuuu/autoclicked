@@ -1,0 +1,115 @@
+# Xcode
+#
+# Xcode 相关忽略文件
+
+## 用户设置
+xcuserdata/
+
+## Xcode 8 及更早版本的兼容性文件
+*.xcscmblueprint
+*.xccheckout
+
+## Xcode 3 及更早版本的兼容性文件
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+## Obj-C/Swift 特定文件
+*.hmap
+
+## 应用打包
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+#
+# Swift 包管理器依赖
+# Packages/
+# Package.pins
+# Package.resolved
+# *.xcodeproj
+# .swiftpm
+
+.build/
+
+# CocoaPods
+#
+# CocoaPods 依赖管理
+# Pods/
+# *.xcworkspace
+
+# Carthage
+#
+# Carthage 依赖
+# Carthage/Checkouts
+
+Carthage/Build/
+
+# Accio 依赖管理
+Dependencies/
+.accio/
+
+# fastlane
+#
+# fastlane 自动化工具生成的文件
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# 代码注入
+#
+# iOS 注入工具生成的文件夹
+
+iOSInjectionProject/
+
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 图标文件必须以两个 \r 结尾
+Icon
+
+# 缩略图
+._*
+
+# 卷根目录可能出现的文件
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# 远程 AFP 共享上可能创建的目录
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# 备份文件
+*~.nib
+*.swp
+*~
+*.bak
+*.tmp
+
+# Claude Code 配置
+.claude/

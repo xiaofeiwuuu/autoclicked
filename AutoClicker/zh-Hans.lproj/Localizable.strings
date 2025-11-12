@@ -1,0 +1,75 @@
+/* 应用标题 */
+"app_title" = "AutoClicker";
+"app_author" = "TinyWuyou";
+
+/* 基础设置 */
+"click_interval" = "点击间隔:";
+"click_count" = "点击次数:";
+"mouse_button" = "鼠标按键:";
+"click_type" = "点击类型:";
+"click_mode" = "点击模式:";
+"delay_start" = "延迟启动:";
+
+/* 按钮 */
+"start" = "开始";
+"stop" = "停止";
+"capture" = "捕获";
+"capture_position" = "捕获位置";
+"capturing" = "捕获中";
+
+/* 模式 */
+"follow_mouse" = "跟随鼠标";
+"fixed_position" = "固定位置";
+"random_area" = "随机区域";
+
+/* 鼠标按键 */
+"left_button" = "左键";
+"right_button" = "右键";
+"middle_button" = "中键";
+
+/* 点击类型 */
+"single_click" = "单击";
+"double_click" = "双击";
+
+/* 人性化设置 */
+"humanize" = "人性化";
+"delay_variation" = "延迟波动:";
+"position_jitter" = "坐标抖动:";
+
+/* 坐标设置 */
+"coordinates" = "坐标:";
+"start_point" = "起点";
+"end_point" = "终点";
+
+/* 时间单位 */
+"milliseconds" = "毫秒";
+"seconds" = "秒";
+"minutes" = "分钟";
+
+/* 提示信息 */
+"unlimited" = "(0=无限)";
+"immediately" = "(0 = 立即)";
+"area_size" = "区域大小";
+
+/* 快捷键 */
+"global_hotkeys" = "全局快捷键";
+"hotkey_start" = "启动";
+"hotkey_stop" = "停止";
+"hotkey_capture" = "捕获";
+
+/* 设置 */
+"settings" = "设置";
+"language" = "语言";
+"theme" = "主题";
+"appearance" = "外观";
+
+/* 主题 */
+"theme_system" = "跟随系统";
+"theme_light" = "浅色";
+"theme_dark" = "深色";
+"triple_click" = "三击";
+"countdown" = "倒计时:";
+"running" = "运行中";
+"stopped" = "已停止";
+"clicked_count" = "已点击:";
+"times" = "次";

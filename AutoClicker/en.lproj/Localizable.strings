@@ -1,0 +1,75 @@
+/* App Title */
+"app_title" = "AutoClicker";
+"app_author" = "TinyWuyou";
+
+/* Basic Settings */
+"click_interval" = "Click Interval:";
+"click_count" = "Click Count:";
+"mouse_button" = "Mouse Button:";
+"click_type" = "Click Type:";
+"click_mode" = "Click Mode:";
+"delay_start" = "Delay Start:";
+
+/* Buttons */
+"start" = "Start";
+"stop" = "Stop";
+"capture" = "Capture";
+"capture_position" = "Capture Position";
+"capturing" = "Capturing";
+
+/* Modes */
+"follow_mouse" = "Follow Mouse";
+"fixed_position" = "Fixed Position";
+"random_area" = "Random Area";
+
+/* Mouse Buttons */
+"left_button" = "Left";
+"right_button" = "Right";
+"middle_button" = "Middle";
+
+/* Click Types */
+"single_click" = "Single";
+"double_click" = "Double";
+
+/* Humanize Settings */
+"humanize" = "Humanize";
+"delay_variation" = "Delay Variation:";
+"position_jitter" = "Position Jitter:";
+
+/* Coordinate Settings */
+"coordinates" = "Coordinates:";
+"start_point" = "Start Point";
+"end_point" = "End Point";
+
+/* Time Units */
+"milliseconds" = "ms";
+"seconds" = "s";
+"minutes" = "min";
+
+/* Tips */
+"unlimited" = "(0=Unlimited)";
+"immediately" = "(0 = Immediate)";
+"area_size" = "Area Size";
+
+/* Hotkeys */
+"global_hotkeys" = "Global Hotkeys";
+"hotkey_start" = "Start";
+"hotkey_stop" = "Stop";
+"hotkey_capture" = "Capture";
+
+/* Settings */
+"settings" = "Settings";
+"language" = "Language";
+"theme" = "Theme";
+"appearance" = "Appearance";
+
+/* Themes */
+"theme_system" = "System";
+"theme_light" = "Light";
+"theme_dark" = "Dark";
+"triple_click" = "Triple";
+"countdown" = "Countdown:";
+"running" = "Running";
+"stopped" = "Stopped";
+"clicked_count" = "Clicked:";
+"times" = "times";

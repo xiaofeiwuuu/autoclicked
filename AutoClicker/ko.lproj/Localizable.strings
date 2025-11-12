@@ -1,0 +1,77 @@
+/* 앱 제목 */
+"app_title" = "AutoClicker";
+"app_author" = "TinyWuyou";
+
+/* 기본 설정 */
+"click_interval" = "클릭 간격:";
+"click_count" = "클릭 횟수:";
+"mouse_button" = "마우스 버튼:";
+"click_type" = "클릭 유형:";
+"click_mode" = "클릭 모드:";
+"delay_start" = "지연 시작:";
+
+/* 버튼 */
+"start" = "시작";
+"stop" = "중지";
+"capture" = "캡처";
+"capture_position" = "위치 캡처";
+"capturing" = "캡처 중";
+
+/* 모드 */
+"follow_mouse" = "마우스 따라가기";
+"fixed_position" = "고정 위치";
+"random_area" = "무작위 영역";
+
+/* 마우스 버튼 */
+"left_button" = "왼쪽";
+"right_button" = "오른쪽";
+"middle_button" = "가운데";
+
+/* 클릭 유형 */
+"single_click" = "단일";
+"double_click" = "더블";
+"triple_click" = "트리플";
+
+/* 인간화 설정 */
+"humanize" = "인간화";
+"delay_variation" = "지연 변동:";
+"position_jitter" = "위치 흔들림:";
+
+/* 좌표 설정 */
+"coordinates" = "좌표:";
+"start_point" = "시작점";
+"end_point" = "끝점";
+
+/* 시간 단위 */
+"milliseconds" = "밀리초";
+"seconds" = "초";
+"minutes" = "분";
+
+/* 팁 */
+"unlimited" = "(0=무제한)";
+"immediately" = "(0 = 즉시)";
+"area_size" = "영역 크기";
+
+/* 단축키 */
+"global_hotkeys" = "전역 단축키";
+"hotkey_start" = "시작";
+"hotkey_stop" = "중지";
+"hotkey_capture" = "캡처";
+
+/* 설정 */
+"settings" = "설정";
+"language" = "언어";
+"theme" = "테마";
+"appearance" = "외관";
+
+/* 테마 */
+"theme_system" = "시스템";
+"theme_light" = "라이트";
+"theme_dark" = "다크";
+
+/* 상태 */
+"countdown" = "카운트다운:";
+"running" = "실행 중";
+"stopped" = "중지됨";
+"clicked_count" = "클릭 수:";
+"times" = "회";

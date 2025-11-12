@@ -1,0 +1,77 @@
+/* 應用程式標題 */
+"app_title" = "AutoClicker";
+"app_author" = "TinyWuyou";
+
+/* 基本設定 */
+"click_interval" = "點擊間隔:";
+"click_count" = "點擊次數:";
+"mouse_button" = "滑鼠按鍵:";
+"click_type" = "點擊類型:";
+"click_mode" = "點擊模式:";
+"delay_start" = "延遲啟動:";
+
+/* 按鈕 */
+"start" = "開始";
+"stop" = "停止";
+"capture" = "擷取";
+"capture_position" = "擷取位置";
+"capturing" = "擷取中";
+
+/* 模式 */
+"follow_mouse" = "跟隨滑鼠";
+"fixed_position" = "固定位置";
+"random_area" = "隨機區域";
+
+/* 滑鼠按鍵 */
+"left_button" = "左鍵";
+"right_button" = "右鍵";
+"middle_button" = "中鍵";
+
+/* 點擊類型 */
+"single_click" = "單擊";
+"double_click" = "雙擊";
+"triple_click" = "三擊";
+
+/* 人性化設定 */
+"humanize" = "人性化";
+"delay_variation" = "延遲波動:";
+"position_jitter" = "座標抖動:";
+
+/* 座標設定 */
+"coordinates" = "座標:";
+"start_point" = "起點";
+"end_point" = "終點";
+
+/* 時間單位 */
+"milliseconds" = "毫秒";
+"seconds" = "秒";
+"minutes" = "分鐘";
+
+/* 提示訊息 */
+"unlimited" = "(0=無限)";
+"immediately" = "(0 = 立即)";
+"area_size" = "區域大小";
+
+/* 快捷鍵 */
+"global_hotkeys" = "全域快捷鍵";
+"hotkey_start" = "啟動";
+"hotkey_stop" = "停止";
+"hotkey_capture" = "擷取";
+
+/* 設定 */
+"settings" = "設定";
+"language" = "語言";
+"theme" = "主題";
+"appearance" = "外觀";
+
+/* 主題 */
+"theme_system" = "跟隨系統";
+"theme_light" = "淺色";
+"theme_dark" = "深色";
+
+/* 狀態 */
+"countdown" = "倒數計時:";
+"running" = "執行中";
+"stopped" = "已停止";
+"clicked_count" = "已點擊:";
+"times" = "次";

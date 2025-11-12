@@ -1,0 +1,77 @@
+/* Título de la aplicación */
+"app_title" = "AutoClicker";
+"app_author" = "TinyWuyou";
+
+/* Configuración básica */
+"click_interval" = "Intervalo de clic:";
+"click_count" = "Número de clics:";
+"mouse_button" = "Botón del ratón:";
+"click_type" = "Tipo de clic:";
+"click_mode" = "Modo de clic:";
+"delay_start" = "Inicio retrasado:";
+
+/* Botones */
+"start" = "Iniciar";
+"stop" = "Detener";
+"capture" = "Capturar";
+"capture_position" = "Capturar posición";
+"capturing" = "Capturando";
+
+/* Modos */
+"follow_mouse" = "Seguir ratón";
+"fixed_position" = "Posición fija";
+"random_area" = "Área aleatoria";
+
+/* Botones del ratón */
+"left_button" = "Izquierdo";
+"right_button" = "Derecho";
+"middle_button" = "Central";
+
+/* Tipos de clic */
+"single_click" = "Simple";
+"double_click" = "Doble";
+"triple_click" = "Triple";
+
+/* Configuración de humanización */
+"humanize" = "Humanizar";
+"delay_variation" = "Variación de retardo:";
+"position_jitter" = "Vibración de posición:";
+
+/* Configuración de coordenadas */
+"coordinates" = "Coordenadas:";
+"start_point" = "Punto inicial";
+"end_point" = "Punto final";
+
+/* Unidades de tiempo */
+"milliseconds" = "ms";
+"seconds" = "s";
+"minutes" = "min";
+
+/* Consejos */
+"unlimited" = "(0=Ilimitado)";
+"immediately" = "(0 = Inmediato)";
+"area_size" = "Tamaño del área";
+
+/* Atajos de teclado */
+"global_hotkeys" = "Atajos globales";
+"hotkey_start" = "Iniciar";
+"hotkey_stop" = "Detener";
+"hotkey_capture" = "Capturar";
+
+/* Configuración */
+"settings" = "Configuración";
+"language" = "Idioma";
+"theme" = "Tema";
+"appearance" = "Apariencia";
+
+/* Temas */
+"theme_system" = "Sistema";
+"theme_light" = "Claro";
+"theme_dark" = "Oscuro";
+
+/* Estado */
+"countdown" = "Cuenta regresiva:";
+"running" = "Ejecutando";
+"stopped" = "Detenido";
+"clicked_count" = "Clics:";
+"times" = "veces";
