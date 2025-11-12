@@ -1,6 +1,8 @@
 # AutoClicker for macOS
 
-> A professional auto clicker for macOS
+> A professional auto clicker for macOS | With humanization simulation, global hotkeys, multi-language support
+
+**Keywords**: macOS auto clicker | mouse automation | humanization | click simulator | accessibility
 
 English Version | **[中文版本](README.md)**
 

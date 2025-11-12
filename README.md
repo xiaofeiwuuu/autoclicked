@@ -1,6 +1,8 @@
 # AutoClicker for macOS
 
-> 一款专业的 macOS 自动点击器
+> 一款专业的 macOS 自动点击器 | 支持人性化模拟、全局快捷键、多语言界面
+
+**关键词**: macOS 自动点击器 | 鼠标自动化 | 人性化模拟 | Auto Clicker | Mouse Automation
 
 **[English Version](README_EN.md)** | 中文版本
 
