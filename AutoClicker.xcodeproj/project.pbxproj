@@ -1,0 +1,546 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		EF1B477B2EC45A3D00F2D99B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EF1B47612EC45A3C00F2D99B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EF1B47682EC45A3C00F2D99B;
+			remoteInfo = AutoClicker;
+		};
+		EF1B47852EC45A3D00F2D99B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EF1B47612EC45A3C00F2D99B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EF1B47682EC45A3C00F2D99B;
+			remoteInfo = AutoClicker;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EF1B47692EC45A3C00F2D99B /* AutoClicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoClicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF1B477A2EC45A3D00F2D99B /* AutoClickerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoClickerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF1B47842EC45A3D00F2D99B /* AutoClickerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoClickerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		EF1B476B2EC45A3C00F2D99B /* AutoClicker */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = AutoClicker;
+			sourceTree = "<group>";
+		};
+		EF1B477D2EC45A3D00F2D99B /* AutoClickerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = AutoClickerTests;
+			sourceTree = "<group>";
+		};
+		EF1B47872EC45A3D00F2D99B /* AutoClickerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = AutoClickerUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EF1B47662EC45A3C00F2D99B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF1B47772EC45A3D00F2D99B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF1B47812EC45A3D00F2D99B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EF1B47602EC45A3C00F2D99B = {
+			isa = PBXGroup;
+			children = (
+				EF1B476B2EC45A3C00F2D99B /* AutoClicker */,
+				EF1B477D2EC45A3D00F2D99B /* AutoClickerTests */,
+				EF1B47872EC45A3D00F2D99B /* AutoClickerUITests */,
+				EF1B476A2EC45A3C00F2D99B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EF1B476A2EC45A3C00F2D99B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EF1B47692EC45A3C00F2D99B /* AutoClicker.app */,
+				EF1B477A2EC45A3D00F2D99B /* AutoClickerTests.xctest */,
+				EF1B47842EC45A3D00F2D99B /* AutoClickerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EF1B47682EC45A3C00F2D99B /* AutoClicker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF1B478E2EC45A3D00F2D99B /* Build configuration list for PBXNativeTarget "AutoClicker" */;
+			buildPhases = (
+				EF1B47652EC45A3C00F2D99B /* Sources */,
+				EF1B47662EC45A3C00F2D99B /* Frameworks */,
+				EF1B47672EC45A3C00F2D99B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				EF1B476B2EC45A3C00F2D99B /* AutoClicker */,
+			);
+			name = AutoClicker;
+			packageProductDependencies = (
+			);
+			productName = AutoClicker;
+			productReference = EF1B47692EC45A3C00F2D99B /* AutoClicker.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EF1B47792EC45A3D00F2D99B /* AutoClickerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF1B47912EC45A3D00F2D99B /* Build configuration list for PBXNativeTarget "AutoClickerTests" */;
+			buildPhases = (
+				EF1B47762EC45A3D00F2D99B /* Sources */,
+				EF1B47772EC45A3D00F2D99B /* Frameworks */,
+				EF1B47782EC45A3D00F2D99B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EF1B477C2EC45A3D00F2D99B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				EF1B477D2EC45A3D00F2D99B /* AutoClickerTests */,
+			);
+			name = AutoClickerTests;
+			packageProductDependencies = (
+			);
+			productName = AutoClickerTests;
+			productReference = EF1B477A2EC45A3D00F2D99B /* AutoClickerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EF1B47832EC45A3D00F2D99B /* AutoClickerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF1B47942EC45A3D00F2D99B /* Build configuration list for PBXNativeTarget "AutoClickerUITests" */;
+			buildPhases = (
+				EF1B47802EC45A3D00F2D99B /* Sources */,
+				EF1B47812EC45A3D00F2D99B /* Frameworks */,
+				EF1B47822EC45A3D00F2D99B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EF1B47862EC45A3D00F2D99B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				EF1B47872EC45A3D00F2D99B /* AutoClickerUITests */,
+			);
+			name = AutoClickerUITests;
+			packageProductDependencies = (
+			);
+			productName = AutoClickerUITests;
+			productReference = EF1B47842EC45A3D00F2D99B /* AutoClickerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EF1B47612EC45A3C00F2D99B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					EF1B47682EC45A3C00F2D99B = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					EF1B47792EC45A3D00F2D99B = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = EF1B47682EC45A3C00F2D99B;
+					};
+					EF1B47832EC45A3D00F2D99B = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = EF1B47682EC45A3C00F2D99B;
+					};
+				};
+			};
+			buildConfigurationList = EF1B47642EC45A3C00F2D99B /* Build configuration list for PBXProject "AutoClicker" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EF1B47602EC45A3C00F2D99B;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = EF1B476A2EC45A3C00F2D99B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EF1B47682EC45A3C00F2D99B /* AutoClicker */,
+				EF1B47792EC45A3D00F2D99B /* AutoClickerTests */,
+				EF1B47832EC45A3D00F2D99B /* AutoClickerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EF1B47672EC45A3C00F2D99B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF1B47782EC45A3D00F2D99B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF1B47822EC45A3D00F2D99B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EF1B47652EC45A3C00F2D99B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF1B47762EC45A3D00F2D99B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF1B47802EC45A3D00F2D99B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EF1B477C2EC45A3D00F2D99B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EF1B47682EC45A3C00F2D99B /* AutoClicker */;
+			targetProxy = EF1B477B2EC45A3D00F2D99B /* PBXContainerItemProxy */;
+		};
+		EF1B47862EC45A3D00F2D99B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EF1B47682EC45A3C00F2D99B /* AutoClicker */;
+			targetProxy = EF1B47852EC45A3D00F2D99B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		EF1B478C2EC45A3D00F2D99B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EF1B478D2EC45A3D00F2D99B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		EF1B478F2EC45A3D00F2D99B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = AutoClicker/AutoClicker.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"AutoClicker/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TinyWuyou.AutoClicker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		EF1B47902EC45A3D00F2D99B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = AutoClicker/AutoClicker.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"AutoClicker/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TinyWuyou.AutoClicker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		EF1B47922EC45A3D00F2D99B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TinyWuyou.AutoClickerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AutoClicker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AutoClicker";
+			};
+			name = Debug;
+		};
+		EF1B47932EC45A3D00F2D99B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TinyWuyou.AutoClickerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AutoClicker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AutoClicker";
+			};
+			name = Release;
+		};
+		EF1B47952EC45A3D00F2D99B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TinyWuyou.AutoClickerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = AutoClicker;
+			};
+			name = Debug;
+		};
+		EF1B47962EC45A3D00F2D99B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TinyWuyou.AutoClickerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = AutoClicker;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EF1B47642EC45A3C00F2D99B /* Build configuration list for PBXProject "AutoClicker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF1B478C2EC45A3D00F2D99B /* Debug */,
+				EF1B478D2EC45A3D00F2D99B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF1B478E2EC45A3D00F2D99B /* Build configuration list for PBXNativeTarget "AutoClicker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF1B478F2EC45A3D00F2D99B /* Debug */,
+				EF1B47902EC45A3D00F2D99B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF1B47912EC45A3D00F2D99B /* Build configuration list for PBXNativeTarget "AutoClickerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF1B47922EC45A3D00F2D99B /* Debug */,
+				EF1B47932EC45A3D00F2D99B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF1B47942EC45A3D00F2D99B /* Build configuration list for PBXNativeTarget "AutoClickerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF1B47952EC45A3D00F2D99B /* Debug */,
+				EF1B47962EC45A3D00F2D99B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EF1B47612EC45A3C00F2D99B /* Project object */;
+}
